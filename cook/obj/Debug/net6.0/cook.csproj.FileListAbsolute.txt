@@ -1,0 +1,180 @@
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\appsettings.json
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\cook.staticwebassets.runtime.json
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\cook.exe
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\cook.deps.json
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\cook.runtimeconfig.json
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\cook.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\cook.pdb
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-555\Desktop\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.csproj.AssemblyReference.cache
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.AssemblyInfoInputs.cache
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.AssemblyInfo.cs
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.csproj.CoreCompileInputs.cache
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.RazorAssemblyInfo.cache
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.RazorAssemblyInfo.cs
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.cook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.build.cook.props
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cook.props
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cook.props
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\scopedcss\bundle\cook.styles.css
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\scopedcss\projectbundle\cook.bundle.scp.css
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.csproj.CopyComplete
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.dll
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\refint\cook.dll
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.pdb
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\cook.genruntimeconfig.cache
+C:\Users\202-555\Desktop\cook\cook\obj\Debug\net6.0\ref\cook.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\appsettings.json
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.staticwebassets.runtime.json
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.exe
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.deps.json
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.runtimeconfig.json
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.pdb
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.csproj.AssemblyReference.cache
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.AssemblyInfoInputs.cache
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.AssemblyInfo.cs
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.csproj.CoreCompileInputs.cache
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.RazorAssemblyInfo.cache
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.RazorAssemblyInfo.cs
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.cook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.build.cook.props
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cook.props
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cook.props
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\scopedcss\bundle\cook.styles.css
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\scopedcss\projectbundle\cook.bundle.scp.css
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.csproj.CopyComplete
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\refint\cook.dll
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.pdb
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.genruntimeconfig.cache
+C:\Users\Yongwoo\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\ref\cook.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\appsettings.json
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.staticwebassets.runtime.json
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.exe
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.deps.json
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.runtimeconfig.json
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\cook.pdb
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.csproj.AssemblyReference.cache
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.AssemblyInfoInputs.cache
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.AssemblyInfo.cs
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.csproj.CoreCompileInputs.cache
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.RazorAssemblyInfo.cache
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.RazorAssemblyInfo.cs
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.cook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.build.cook.props
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cook.props
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cook.props
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\scopedcss\bundle\cook.styles.css
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\scopedcss\projectbundle\cook.bundle.scp.css
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.csproj.CopyComplete
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\refint\cook.dll
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.pdb
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\cook.genruntimeconfig.cache
+C:\Users\202-555\Desktop\cook (3)\cook\cook\obj\Debug\net6.0\ref\cook.dll

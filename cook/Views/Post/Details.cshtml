@@ -1,0 +1,18 @@
+﻿@model cook.Models.Post
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>게시글 상세 정보</h2>
+
+<div>
+    <h4>제목: @Model.Title</h4>
+    <h4>작성자: @Model.member_name</h4>
+    <p>내용: @Model.Content</p>
+    <!-- <img src="@Url.Action("{id}", new { id = Model.ImageData })" alt="게시글 이미지" /> -->
+    <img src="@Url.Content("~/images/" + Model.ImagePath)" alt="게시글 이미지" />
+</div>
+
+<p>
+    @Html.ActionLink("목록으로 돌아가기", "Index")
+</p>

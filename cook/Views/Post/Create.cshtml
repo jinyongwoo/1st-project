@@ -1,0 +1,54 @@
+﻿@model cook.Models.Post
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm("Createpost", "Post", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <table>
+        <tr>
+            <td>
+                제목
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Title)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                내용
+            </td>
+            <td>
+                @Html.TextAreaFor(m => m.Content)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                작성자
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.member_name)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                이미지 업로드
+            </td>
+            <td>
+                <input type="file" name="ImageData" id="ImageData" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </td>
+        </tr>
+    </table>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\cook.bundle.scp.css",
+      "PackagePath": "staticwebassets\\cook.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\18320c9ae1e241de8cd8f4b91fdba64d.jpg",
+      "PackagePath": "staticwebassets\\images\\18320c9ae1e241de8cd8f4b91fdba64d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\2aa9d8e7cf374de8a809f792fb87584b.jpg",
+      "PackagePath": "staticwebassets\\images\\2aa9d8e7cf374de8a809f792fb87584b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\3455f4c2b9ae42269d58a615b2fc1f01.jpg",
+      "PackagePath": "staticwebassets\\images\\3455f4c2b9ae42269d58a615b2fc1f01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\3552269e5c63468ea6a0c39ecb67dd6a.jpg",
+      "PackagePath": "staticwebassets\\images\\3552269e5c63468ea6a0c39ecb67dd6a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\4737def8501d4b5e8d792df639cadbc3.jpg",
+      "PackagePath": "staticwebassets\\images\\4737def8501d4b5e8d792df639cadbc3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\4a5cdb85168e4316a0c3040e8f99c4f3.jpg",
+      "PackagePath": "staticwebassets\\images\\4a5cdb85168e4316a0c3040e8f99c4f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\5113cf804bde4650933e1d8c9909a32a.jpg",
+      "PackagePath": "staticwebassets\\images\\5113cf804bde4650933e1d8c9909a32a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\51e657b41b6248928d043ad8bee03224.jpg",
+      "PackagePath": "staticwebassets\\images\\51e657b41b6248928d043ad8bee03224.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\6d0c26c6f52b452b8c96ba8f4af41f9d.jpg",
+      "PackagePath": "staticwebassets\\images\\6d0c26c6f52b452b8c96ba8f4af41f9d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\8c4dee8a5bcc43aebe74f0bae2fb0e51.jpg",
+      "PackagePath": "staticwebassets\\images\\8c4dee8a5bcc43aebe74f0bae2fb0e51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\aa160611b7ca4a02a622d7eb8e39f664.jpg",
+      "PackagePath": "staticwebassets\\images\\aa160611b7ca4a02a622d7eb8e39f664.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\c3434ff29d434b47bcb245db98704ca0.jpg",
+      "PackagePath": "staticwebassets\\images\\c3434ff29d434b47bcb245db98704ca0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\c752cdfc815642ada4cf0ff0a10776b1.jpg",
+      "PackagePath": "staticwebassets\\images\\c752cdfc815642ada4cf0ff0a10776b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\ch.png.jpg",
+      "PackagePath": "staticwebassets\\images\\ch.png.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\e682a12bb9214b79b3c1e810ca7bf381.jpg",
+      "PackagePath": "staticwebassets\\images\\e682a12bb9214b79b3c1e810ca7bf381.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\f299c5556c594eea8ea9e2a4b5919753.jpg",
+      "PackagePath": "staticwebassets\\images\\f299c5556c594eea8ea9e2a4b5919753.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\f2f96e6541774d2b9c23858f9853aac0.jpg",
+      "PackagePath": "staticwebassets\\images\\f2f96e6541774d2b9c23858f9853aac0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\images\\캡처.PNG",
+      "PackagePath": "staticwebassets\\images\\캡처.PNG"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\202-555\\Desktop\\cook (3)\\cook\\cook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.cook.props",
+      "PackagePath": "build\\cook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.cook.props",
+      "PackagePath": "buildMultiTargeting\\cook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.cook.props",
+      "PackagePath": "buildTransitive\\cook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.cook.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

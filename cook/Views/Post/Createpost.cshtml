@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Create Result";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    int? result = (int?)TempData["result"];
+}
+@if(result==1)
+{
+    <p>데이터가 생성되었습니다.</p>
+}
+else
+{
+    <p>데이터 생성에 실패하였습니다.</p>
+}
